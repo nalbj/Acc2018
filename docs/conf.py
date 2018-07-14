@@ -164,9 +164,9 @@ todo_include_todos = True
 # html_theme_path = f5_sphinx_theme.get_html_theme_path()
 # html_sidebars = {'**': ['searchbox.html', 'localtoc.html', 'globaltoc.html','relations.html']}
 # html_theme_options = {
-                        'site_name': 'Community Training Classes & Labs',
-                        'next_prev_link': True
-                     }
+#                        'site_name': 'Community Training Classes & Labs',
+#                        'next_prev_link': True
+#                     }
 
 def setup(app):
     app.add_stylesheet('css/f5_agility_theme.css')
